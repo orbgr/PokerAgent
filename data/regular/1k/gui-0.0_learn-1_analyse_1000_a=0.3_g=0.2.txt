@@ -1,0 +1,5 @@
+----------------------------------------------Training finished.-----------------------------------------------------------------------------
+
+Penalty Avg: 1.787
+Random Actions: Fold: 1928 ALL-IN: 2513 Percentage Fold: 0.3836052526860326
+Agent Actions: Fold: 2238 ALL-IN: 2203 Percentage Fold: 0.5079437131184749
